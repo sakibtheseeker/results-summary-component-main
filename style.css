@@ -1,0 +1,45 @@
+  @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&display=swap');
+
+
+:root{
+    background-color: aliceblue;
+}
+
+.container{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 100px;
+}
+
+/* ======== Left Section ========== */
+
+.leftsection{
+    text-align: center;
+    justify-content: center;
+    background-color: blue;
+    border-radius: 25px;
+    padding: 20px;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+
+
+/* ======== Right Section ========== */
+
+.rightsection{
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+
+.button{
+    width: 100px;
+    border-radius: 10px;
+    background-color: blue;
+    text-align: center;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
