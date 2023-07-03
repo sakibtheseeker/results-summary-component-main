@@ -40,7 +40,7 @@
 .leftsection{
     text-align: center;
     justify-content: center;
-    background-color: blue;
+    background-color:var(--Light-slate-blue);
     border-radius: 25px;
     padding: 20px;
     font-family: 'Hanken Grotesk', sans-serif;
