@@ -127,7 +127,7 @@ height: 20px;
     color: var(--light-red);
     text-align: center;
     border-radius: 5px;
-    background-color: aliceblue;
+    background-color: #fff6f5;
     display: flex;
     
 }
@@ -135,7 +135,7 @@ height: 20px;
 .visual{
     color: var(--Cobalt-blue);
     text-align: center;
-    background-color: aliceblue;
+    background-color: #f3f3fd;
     display: flex;
    
 }
@@ -143,7 +143,7 @@ height: 20px;
 .memory{
     color: var(--Orange-yellow);
     text-align: center;
-    background-color: aliceblue;
+    background-color: #fffbf2;
     display: flex;
     
 }
@@ -151,7 +151,7 @@ height: 20px;
 .verbal{
     color: var(--Green-teal);
     text-align: center;
-    background-color: aliceblue;
+    background-color: #f2fbfa;
     display: flex;
 }
 
