@@ -137,7 +137,7 @@ height: 20px;
     text-align: center;
     background-color: #f3f3fd;
     display: flex;
-   
+    border-radius: 5px;
 }
 
 .memory{
@@ -145,7 +145,7 @@ height: 20px;
     text-align: center;
     background-color: #fffbf2;
     display: flex;
-    
+    border-radius: 5px;
 }
 
 .verbal{
@@ -153,6 +153,7 @@ height: 20px;
     text-align: center;
     background-color: #f2fbfa;
     display: flex;
+    border-radius: 5px;
 }
 
 .score{
@@ -160,7 +161,8 @@ color: black;
 }
 
 .maxscore{
-    color:white
+    color:white;
+    
 }
 
 
@@ -173,6 +175,7 @@ color: black;
     height: 30px;
     justify-content: center;
     color: white;
+    display: flex;
 }
 
 .button_container{
@@ -181,4 +184,11 @@ color: black;
     display: flex;
     height: 30px;
     text-align: center;
+}
+
+.buttontext{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    align-items: center;
 }
