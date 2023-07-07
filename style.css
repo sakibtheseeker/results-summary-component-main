@@ -25,7 +25,7 @@
 /* ========== Main ===========*/
 
 .container{
-    height: 400px;
+    height: 380px;
     display: flex;
     justify-content: center;
     width: 550px;
@@ -42,7 +42,7 @@
     justify-content: center;
     background-color:var(--Light-slate-blue);
     border-radius: 25px;
-    padding: 25px;
+    padding: 20px;
     font-family: 'Hanken Grotesk', sans-serif;
     width: 275px;
     color: white;
@@ -130,6 +130,7 @@ height: 30px;
     display: flex;
     height: 25px;
     padding: 5px;
+    justify-content: space-around;
 }
 
 .visual{
@@ -167,7 +168,7 @@ color: black;
 }
 
 .maxscore{
-    color:white;
+    color:var(--Light-lavender);
     
 }
 
@@ -186,7 +187,8 @@ color: black;
 
 .button_container{
     justify-content: center;
-    margin: 10px;
+    margin-top: 25px;
+    margin-bottom: 25px;
     display: flex;
     height: 35px;
     text-align: center;
