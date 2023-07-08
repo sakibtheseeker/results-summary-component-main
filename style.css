@@ -29,9 +29,12 @@
     display: flex;
     justify-content: center;
     width: 550px;
-    background-color: white;
     border-radius: 25px;
-    box-shadow: 100px;
+    background: hsl(0, 0%, 100%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 
@@ -51,7 +54,7 @@
 .lefttitle{
     color: var(--Light-lavender);
     font-weight: 500;
-    margin: 10px;
+    margin: 15px;
 }
 
 .midleft{
@@ -112,7 +115,10 @@
 .right_title{
     text-align: left;
     font-weight: 700;
-    margin: 10px;
+    margin-top:  15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 
@@ -122,6 +128,10 @@ padding:10px;
 height: 30px;
 }
 
+img{
+    margin-top: 4px;
+}
+
 .reaction{
     color: var(--light-red);
     text-align: center;
@@ -129,8 +139,8 @@ height: 30px;
     background-color: #fff6f5;
     display: flex;
     height: 25px;
-    padding: 5px;
-    justify-content: space-around;
+    padding: 5px 10px;
+    justify-content: space-between;
 }
 
 .visual{
@@ -140,7 +150,9 @@ height: 30px;
     display: flex;
     border-radius: 5px;
     height: 25px;
-    padding: 5px;
+    padding: 5px 10px;
+    justify-content: space-between;
+
 }
 
 .memory{
@@ -150,7 +162,9 @@ height: 30px;
     display: flex;
     border-radius: 5px;
     height: 25px;
-    padding: 5px;
+    padding: 5px 10px;
+    justify-content: space-between;
+
 }
 
 .verbal{
@@ -160,21 +174,29 @@ height: 30px;
     display: flex;
     border-radius: 5px;
     height: 25px;
-    padding: 5px;
+    padding: 5px 10px;
+    justify-content: space-between;
+
 }
 
-.score{
+.score1{
 color: black;
+margin-left: 35px;
 }
+
+.score2{
+    color: black;
+    margin-left: 50px;
+    }
 
 .maxscore{
-    color:var(--Light-lavender);
+    color:hsla(224, 30%, 27%, .5);
     
 }
 
 
 .button{
-    width:200px;
+    width:220px;
     border-radius: 20px;
     background-color: var(--Dark-gray-blue);
     text-align: center;
