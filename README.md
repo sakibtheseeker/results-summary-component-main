@@ -7,8 +7,6 @@
 
 ## Overview
 
-### The challenge
-
 ### Links
 
 - Solution URL: (https://www.frontendmentor.io/solutions/resultssummarycomponent-made-with-css-flexbox-ce3i1OkKOD)
@@ -25,7 +23,7 @@
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+With this challenge got hands-on experience on css flexbox, and other CSS properties like padding,margin,text-align,align-items,font-weight,justify content and border radius.Used gradient colors and learned to import fonts through url.
 
 
 
