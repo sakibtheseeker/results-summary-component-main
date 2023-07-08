@@ -18,21 +18,15 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/resultssummarycomponent-made-with-css-flexbox-ce3i1OkKOD)
-- Live Site URL: [Add live site URL here](https://sakibtheseeker.github.io/results-summary-component-main/)
+- Solution URL: (https://www.frontendmentor.io/solutions/resultssummarycomponent-made-with-css-flexbox-ce3i1OkKOD)
+- Live Site URL: (https://sakibtheseeker.github.io/results-summary-component-main/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+-   HTML
+-   CSS
 
 
 
@@ -57,9 +51,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Sakib Tamboli](https://sakib-tamboli.netlify.app/)
+- Frontend Mentor - [@sakibtheseeker](https://www.frontendmentor.io/profile/sakibtheseeker)
+- Twitter - [@sakibt_2501](https://twitter.com/sakibt_2501)
 
 
 ## Acknowledgments
