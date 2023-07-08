@@ -2,7 +2,7 @@
 
 
 :root{
-    background-color: aliceblue;
+    background-color:white;
     --light-red: hsl(0, 100%, 67%);
     --Orange-yellow: hsl(39, 100%, 56%);
     --Green-teal: hsl(166, 100%, 37%);
@@ -119,6 +119,7 @@
     margin-bottom: 15px;
     margin-left: 10px;
     margin-right: 10px;
+    font-size: 20px;
 }
 
 
