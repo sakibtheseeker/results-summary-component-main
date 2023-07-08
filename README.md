@@ -43,7 +43,5 @@ Use this section to recap over some of your major learnings while working throug
 - Twitter - [@sakibt_2501](https://twitter.com/sakibt_2501)
 
 
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
+## Feedback
+If you have any feedback, please reach out to me at <a href="mailto:stsakib123@gmail.com">stsakib123@gmail.com</a>
