@@ -33,6 +33,8 @@ With this challenge got hands-on experience on css flexbox, and other CSS proper
 - Frontend Mentor - [@sakibtheseeker](https://www.frontendmentor.io/profile/sakibtheseeker)
 - Twitter - [@sakibt_2501](https://twitter.com/sakibt_2501)
 
+## Future Updates
+This project is only made for desktop screen and soon mobile screen page layout will be added.
 
 ## Feedback
 If you have any feedback, please reach out to me at <a href="mailto:stsakib123@gmail.com">stsakib123@gmail.com</a>
